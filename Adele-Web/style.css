@@ -1,0 +1,61 @@
+h1{
+   color: rgb(33, 237, 33); 
+   font-size: 40px;
+   font-family:cursive;
+   text-align: center;
+}
+
+h2{
+    color:blueviolet;
+    font-family: cursive;
+    text-align: right;
+}
+
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: lightpink;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: brown;
+}
+
+
+
+th{
+    font-weight: 800;
+    background-color: aquamarine;
+    color: cadetblue;
+}
+
+tr.alt td{
+    background-color: blue;
+}
+
+ul{
+list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
